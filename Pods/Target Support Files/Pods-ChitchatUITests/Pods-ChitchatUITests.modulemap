@@ -1,0 +1,6 @@
+framework module Pods_ChitchatUITests {
+  umbrella header "Pods-ChitchatUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
